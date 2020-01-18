@@ -1,3 +1,7 @@
+/*
+  The Express Application that drives the server!!
+*/
+
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
